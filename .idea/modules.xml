@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sp-vue/sp-vue.iml" filepath="$PROJECT_DIR$/sp-vue/sp-vue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spsys-springbooot/spsys-springbooot.iml" filepath="$PROJECT_DIR$/spsys-springbooot/spsys-springbooot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spsys-springboot/spsys-springboot.iml" filepath="$PROJECT_DIR$/spsys-springboot/spsys-springboot.iml" />
+    </modules>
+  </component>
+</project>
